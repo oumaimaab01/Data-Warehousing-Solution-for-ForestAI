@@ -36,11 +36,11 @@ Le projet comprend plusieurs composants clés :
 - **Tableaux de bord** : Génération de rapports et de tableaux de bord dynamiques avec **Power BI** pour visualiser les performances des modèles et les analyses de benchmark.
 
 ### Schéma du Datawarehouse
-![Schéma du Datawarehouse](images/datawarehouse schema.png)
+![Schéma du Datawarehouse](images/datawarehouse_schema.png)
 
 ### Schéma des DataMarts
-![FactClientComparison Datamart](./images/FactClientComparisonDatamart.png)
-![FactModelPerformance Datamart](./images/FactModelPerformanceDatamart.png)
+![FactClientComparison Datamart](./images/FactClientComparison_Datamart.png)
+![FactModelPerformance Datamart](./images/FactModelPerformance_Datamart.png)
 
 ### Création des cubes
 ![cube1](./images/cube1.png)
@@ -48,6 +48,6 @@ Le projet comprend plusieurs composants clés :
 
 
 ### Création des tableaux de bord
-![Client estimation Dashboard ](./images/ClientestimationDashboard.png)
-![Prediction model performance Dashboard](./images/PredictionmodelperformanceDashboard.png)
+![Client estimation Dashboard ](./images/Clientestimation_Dashboard.png)
+![Prediction model performance Dashboard](./images/Predictionmodelperformance_Dashboard.png)
 
