@@ -36,7 +36,7 @@ Le projet comprend plusieurs composants clés :
 - **Tableaux de bord** : Génération de rapports et de tableaux de bord dynamiques avec **Power BI** pour visualiser les performances des modèles et les analyses de benchmark.
 
 ### Schéma du Datawarehouse
-![Schéma du Datawarehouse](./images/datawarehouseschema.png)
+![Schéma du Datawarehouse](images/datawarehouse schema.png)
 
 ### Schéma des DataMarts
 ![FactClientComparison Datamart](./images/FactClientComparisonDatamart.png)
