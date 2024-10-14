@@ -35,12 +35,19 @@ Le projet comprend plusieurs composants clés :
 - **Pipelines ETL** : Utilisation de **SQL Server Integration Services (SSIS)** pour l'extraction, la transformation et le chargement (ETL) des données dans l'entrepôt de données.
 - **Tableaux de bord** : Génération de rapports et de tableaux de bord dynamiques avec **Power BI** pour visualiser les performances des modèles et les analyses de benchmark.
 
-### Schema du Datawarehouse
-![Schema du Datawarehouse](./images/datawarehouse schema.png)
+### Schéma du Datawarehouse
+![Schéma du Datawarehouse](./images/datawarehouseschema.png)
 
-### Schema des DataMarts
-![FactClientComparison Datamart](./images/FactClientComparison Datamart.png)
-![FactModelPerformance Datamart](./images/FactModelPerformance Datamart.png)
+### Schéma des DataMarts
+![FactClientComparison Datamart](./images/FactClientComparisonDatamart.png)
+![FactModelPerformance Datamart](./images/FactModelPerformanceDatamart.png)
 
-### Répartition géographique des écureuils
-![Carte des Observations](./images/dashboard_squirrels_map.png)
+### Création des cubes
+![cube1](./images/cube1.png)
+![cube2](./images/cube2.png)
+
+
+### Création des tableaux de bord
+![Client estimation Dashboard ](./images/ClientestimationDashboard.png)
+![Prediction model performance Dashboard](./images/PredictionmodelperformanceDashboard.png)
+
