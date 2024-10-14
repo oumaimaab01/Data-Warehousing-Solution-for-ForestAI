@@ -51,6 +51,10 @@ Le projet comprend plusieurs composants clés :
 
 
 ### Création des tableaux de bord
-![Client estimation Dashboard ](./images/Client_estimation_Dashboard.png)
+
+#### Client estimation Dashboard :
+![Client estimation Dashboard](./images/Client_estimation_Dashboard.png)
+
+#### Prediction model performance Dashboard :
 ![Prediction model performance Dashboard](./images/Prediction_model_performance_Dashboard.png)
 
