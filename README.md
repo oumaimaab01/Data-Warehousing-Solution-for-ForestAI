@@ -39,15 +39,18 @@ Le projet comprend plusieurs composants clés :
 ![Schéma du Datawarehouse](images/datawarehouse_schema.png)
 
 ### Schéma des DataMarts
+#### FactClientComparison Datamart :
 ![FactClientComparison Datamart](./images/FactClientComparison_Datamart.png)
+
+#### FactModelPerformance Datamart :
 ![FactModelPerformance Datamart](./images/FactModelPerformance_Datamart.png)
 
 ### Création des cubes
-![cube1](./images/cube1.png)
-![cube2](./images/cube2.png)
+![cube1](./images/Cube1.png)
+![cube2](./images/Cube2.png)
 
 
 ### Création des tableaux de bord
-![Client estimation Dashboard ](./images/Clientestimation_Dashboard.png)
-![Prediction model performance Dashboard](./images/Predictionmodelperformance_Dashboard.png)
+![Client estimation Dashboard ](./images/Client_estimation_Dashboard.png)
+![Prediction model performance Dashboard](./images/Prediction_model_performance_Dashboard.png)
 
